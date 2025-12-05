@@ -2,9 +2,8 @@
 MINI PROJECTS
 
 
-  ELECTRONIC  VOTING MACHINE - https://github.com/Aakashpanaiyadi/Electronic-voting-machine-using-EEPROM.git
- 
-  LED BLINK - https://github.com/Aakashpanaiyadi/LED-Blink.git
+ELECTRONIC  VOTING MACHINE - https://github.com/Aakashpanaiyadi/Electronic-voting-machine-using-EEPROM.git
+
 
  UART BASED AUTOMATION - https://github.com/Aakashpanaiyadi/UART-based-home-automation.git
 
