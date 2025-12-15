@@ -13,5 +13,7 @@ ELECTRONIC  VOTING MACHINE - https://github.com/Aakashpanaiyadi/Electronic-votin
 
 PUSH BUTTON COUNTER - https://github.com/Aakashpanaiyadi/PUSH-BUTTON-COUNTER
 
-LED BLINK - https://github.com/Aakashpanaiyadi/LED-Blink
+LED BLINK USING PIC- https://github.com/Aakashpanaiyadi/LED-Blink
+
+LED BLINK DELAY ARDUINO - https://github.com/Aakashpanaiyadi/LED-Blink-delay-
 
