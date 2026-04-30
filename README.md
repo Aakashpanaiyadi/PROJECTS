@@ -22,3 +22,6 @@ TEMPURATURE MONITORING USING ARDUINO - https://github.com/Aakashpanaiyadi/Temper
 
 
 I2C-EEPROM-Interfacing-with-PIC16F877A - https://github.com/Aakashpanaiyadi/I2C-EEPROM-Interfacing-with-PIC16F877A
+
+SPI-EEPROM-Interface-with-PIC16F877A-25AA256-  https://github.com/Aakashpanaiyadi/SPI-EEPROM-Interface-with-PIC16F877A-25AA256-
+
