@@ -14,8 +14,6 @@ MINI PROJECTS
 
  DIGITAL CLOCK - https://github.com/Aakashpanaiyadi/digital-clock-using-pic.git
 
-HOME AUTOMATION ARDUINO - https://github.com/Aakashpanaiyadi/HOME-AUTOMATION-arduino
-
 PUSH BUTTON COUNTER - https://github.com/Aakashpanaiyadi/PUSH-BUTTON-COUNTER
 
 LED BLINK USING PIC- https://github.com/Aakashpanaiyadi/LED-Blink
