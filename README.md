@@ -23,3 +23,5 @@ I2C-EEPROM-Interfacing-with-PIC16F877A - https://github.com/Aakashpanaiyadi/I2C-
 
 SPI-EEPROM-Interface-with-PIC16F877A-25AA256-  https://github.com/Aakashpanaiyadi/SPI-EEPROM-Interface-with-PIC16F877A-25AA256-
 
+PIC Temperature Controlled Fan - https://github.com/Aakashpanaiyadi/pic-temperature-controlled-fan/tree/main
+
