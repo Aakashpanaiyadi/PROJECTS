@@ -5,8 +5,6 @@ SMART HELMET SAFETY SYSTEM - https://github.com/Aakashpanaiyadi/Smart-helmet-saf
 SMART TWO WHEELER EV DIAGNOSIS - https://github.com/Aakashpanaiyadi/Smart-Two-Wheeler-Diagnosis-system
 
 
-MINI PROJECTS
-
 
  ELECTRONIC  VOTING MACHINE - https://github.com/Aakashpanaiyadi/Electronic-voting-machine-using-EEPROM.git
 
