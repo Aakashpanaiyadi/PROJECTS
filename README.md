@@ -1,6 +1,6 @@
 # PROJECTS
 
-SMART HELMET SAFETY SYSTEM - https://github.com/Aakashpanaiyadi/Smart-helmet-safety
+PIC-Based Smart Helmet with Ignition Control [UART,SWITCHES,LCD]- https://github.com/Aakashpanaiyadi/Smart-helmet-safety
 
 SMART TWO WHEELER EV DIAGNOSIS - https://github.com/Aakashpanaiyadi/Smart-Two-Wheeler-Diagnosis-system
 
