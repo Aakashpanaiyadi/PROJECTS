@@ -6,7 +6,7 @@ IoT-Based EV Diagnosis System using Arduino,ESP8266 & Firebase - https://github.
 
 
 
- ELECTRONIC  VOTING MACHINE - https://github.com/Aakashpanaiyadi/Electronic-voting-machine-using-EEPROM.git
+Electronic Voting Machine using PIC Microcontroller, EEPROM & LCD - https://github.com/Aakashpanaiyadi/Electronic-voting-machine-using-EEPROM.git
 
  UART BASED AUTOMATION - https://github.com/Aakashpanaiyadi/UART-based-home-automation.git
 
