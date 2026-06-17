@@ -8,7 +8,7 @@ IoT-Based EV Diagnosis System using Arduino,ESP8266 & Firebase - https://github.
 
 Electronic Voting Machine using PIC Microcontroller, EEPROM & LCD - https://github.com/Aakashpanaiyadi/Electronic-voting-machine-using-EEPROM.git
 
- UART BASED AUTOMATION - https://github.com/Aakashpanaiyadi/UART-based-home-automation.git
+ PIC16F877A Home Automation with UART Communication and Relay Control - https://github.com/Aakashpanaiyadi/UART-based-home-automation.git
 
  DIGITAL CLOCK - https://github.com/Aakashpanaiyadi/digital-clock-using-pic.git
 
