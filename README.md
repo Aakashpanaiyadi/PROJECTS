@@ -10,7 +10,7 @@ Electronic Voting Machine using PIC Microcontroller, EEPROM & LCD - https://gith
 
  PIC16F877A Home Automation with UART Communication and Relay Control - https://github.com/Aakashpanaiyadi/UART-based-home-automation.git
 
- DIGITAL CLOCK - https://github.com/Aakashpanaiyadi/digital-clock-using-pic.git
+ Digital Clock using PIC, Timer0 and 7-Segment Displays - https://github.com/Aakashpanaiyadi/digital-clock-using-pic.git
 
 PUSH BUTTON COUNTER - https://github.com/Aakashpanaiyadi/PUSH-BUTTON-COUNTER
 
