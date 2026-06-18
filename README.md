@@ -2,7 +2,9 @@
 
 IoT-Based EV Diagnosis System using Arduino,ESP8266 & Firebase - https://github.com/Aakashpanaiyadi/Smart-Two-Wheeler-Diagnosis-system
 
-Early-Battery-Overheating-Detection-in-Two-Wheeler-Ev - https://github.com/Aakashpanaiyadi/Early-Battery-Overheating-Detection-in-Two-Wheeler-EV-
+Early-Battery-Overheating-Detection-in-Two-Wheeler-Ev - https://github.com/Aakashpanaiyadi/Early-Battery-Overheating-Detection-in-Two-Wheeler-EV-\
+
+Dual-Mode-PWM-Controller-Using-STM32  -  https://github.com/Aakashpanaiyadi/Dual-Mode-PWM-Controller-Using-STM32
 
 PIC-Based Smart Helmet with Ignition Control [UART,SWITCHES,LCD] - https://github.com/Aakashpanaiyadi/Smart-helmet-safety
 
