@@ -2,6 +2,8 @@
 
 IoT-Based EV Diagnosis System using Arduino,ESP8266 & Firebase - https://github.com/Aakashpanaiyadi/Smart-Two-Wheeler-Diagnosis-system
 
+Early-Battery-Overheating-Detection-in-Two-Wheeler-Ev - https://github.com/Aakashpanaiyadi/Early-Battery-Overheating-Detection-in-Two-Wheeler-EV-
+
 PIC-Based Smart Helmet with Ignition Control [UART,SWITCHES,LCD] - https://github.com/Aakashpanaiyadi/Smart-helmet-safety
 
 Electronic Voting Machine using PIC Microcontroller, EEPROM & LCD - https://github.com/Aakashpanaiyadi/Electronic-voting-machine-using-EEPROM.git
