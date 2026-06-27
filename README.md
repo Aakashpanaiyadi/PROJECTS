@@ -18,5 +18,3 @@ SPI-EEPROM-Interface-with-PIC16F877A-25AA256-  https://github.com/Aakashpanaiyad
 
 PWM-Based Fan Speed Control using PIC, LM35 & L293D - https://github.com/Aakashpanaiyadi/pic-temperature-controlled-fan/tree/main
 
-Digital Clock using PIC, Timer0 and 7-Segment Displays - https://github.com/Aakashpanaiyadi/digital-clock-using-pic.git
-
